@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Shubh-Dev/template/issues"
   },
-  "homepage": "https://github.com/Shubh-Dev/template#readme"
+  "homepage": "https://github.com/Shubh-Dev/template#readme",
+  "devDependencies": {
+    "hint": "^6.1.10"
+  }
 }
